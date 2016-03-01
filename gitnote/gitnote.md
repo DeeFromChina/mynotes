@@ -93,7 +93,9 @@
 
 ---
 ### Git常用命令
-参考 [易代言-科技主页](http://www.52edaiyan.com/homepage/tech/git)  
+参考   
+- [易代言-科技主页：Git 使用心得](http://www.52edaiyan.com/homepage/tech/git)  
+- [易代言-科技主页：GitHub 使用心得](http://www.52edaiyan.com/homepage/tech/github)  
 
 
 
